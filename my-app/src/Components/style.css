@@ -1,0 +1,47 @@
+*{
+    font-family: cursive;
+}
+.reasult-added-class{
+    color: black;
+    font-family: cursive;
+    font-size: 18px;
+    text-align: center;
+
+}
+.Table-heading-span{
+    color: black;
+    font-family: cursive;
+    font-size: 18px;
+}
+.Main-parent-container{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* height: 100vh; */
+    width: 100%;
+    padding: 20px;
+}
+.font_size_family{
+    color: black;
+    font-family: cursive;
+    font-size: 18px;
+}
+.Reqested-number{
+    /* text-decoration: underline; */
+    color: green;
+    font-weight: bold;
+
+}
+
+
+body{
+    background-image: url(./main-background.jpg);
+}
+@media (max-width:536px){
+    .Main-heading-text{
+        font-size:16px;
+    }
+    .table-class.small-width{
+        width: 100% !important;
+    }
+}
