@@ -46,7 +46,12 @@ code {
 
 }
 
-
+.input-parent-div{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
 @media (max-width:536px){
   .Main-heading-text{
       font-size:16px;
