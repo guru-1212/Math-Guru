@@ -37,7 +37,7 @@ export function MultiplicatingComponent() {
           </h3>
           <div class="dt text-center">
             {" "}
-            <label class="font_size_family">Inter Number</label>
+            <label class="font_size_family">Enter Number</label>
           </div>
           <div class="dd mb-2 input-parent-div">
             <input
